@@ -1,0 +1,14 @@
+TSH Trading Server Helper is made to make your life easier.
+This is not the final update of this program.
+While using the program you can idle and sit back while heavy spammers trade you.
+
+----------------------------------
+Program functions
+----------------------------------
+
+All it does is counts 15 sec then starts pressing "Y" 
+Sleeps 2 sec
+Then clicks ctrl + v 
+Sleeps 2 sec and hits enter.
+Total time to execute all the keys is 20 seconds so it's not spamming the chat.
+
